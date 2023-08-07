@@ -1,4 +1,4 @@
-# TodoApp
+# Todo App
 
 Todo 관리를 위한 웹 Application 입니다.
 
